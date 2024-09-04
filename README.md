@@ -1,3 +1,3 @@
-## Next.js App Router Basics(14 version)
+## Simple Dashboard APP with Nextjs 14 | app router.
 
 
